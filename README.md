@@ -18,5 +18,5 @@ In this assignment we used the keyboard to move the shapes and rectangles.
 
 # Assignment 5
 ## (https://github.com/southgataj27/MAGD-150-Assignments/blob/gh-pages/Assignment5/Assignment5.pde)
-This asignment we programmed two buttons which interacted with either the opposite button or the background.
+This assignment we programmed two buttons which interacted with either the opposite button or the background.
 
